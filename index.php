@@ -2,11 +2,11 @@
 <html>
 
 <head>
-	<title>Fighting Fantasy</title>
+	<title>Fighting Fantasy 2</title>
 </head>
 
 <body>
-Deze pagina gaat over "fighting fantasy"'<br>
+Deze pagina gaat over "2 fighting fantasy"'<br>
 <?php
 	// print hallo
 	echo "hallo";
